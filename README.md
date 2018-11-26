@@ -1,1 +1,1 @@
-# Stock-Price-Predator
+# Stock-Price-Predictions
